@@ -1,0 +1,26 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.container {
+	outline: solid 2px black;
+	width: 75%;
+	margin: auto;
+	text-align: center;
+}
+
+.container h3 {
+	background: #adb1b5;
+}
+
+.user {
+	cursor: pointer;
+	text-align: center;
+}
+
+h4 {
+	margin-left: 25px;
+}
